@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emy
-- 👀 I’m interested in Drawing
-- 🌱 I’m currently learning Desing
+- 👀 I’m interested in Desing
+- 🌱 I’m currently learning Desing too ^^""
 - 😄 Pronouns: he/him
 
 <!---
