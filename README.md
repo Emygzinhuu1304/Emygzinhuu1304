@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Emy
-- 👀 I’m interested in Desing
-- 🌱 I’m currently learning Desing too ^^""
-- 😄 Pronouns: he/him
+# 🧑🏻‍💻 Miguel Magalhães
+**`Progamador Web Designer`**
 
-<!---
-Emygzinhuu1304/Emygzinhuu1304 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Oi, eu sou a Miguel
+- 👀 Eu me interesso por Design
+- 🌱 Eu também estou aprendendo a Progamar e estudando sobre Design ^^""
+- 😄 Pronomes: ele/dele
+
+### <p>Atualmente sou um estudante da Terceira Série do Ensino Médio na [Escola Estadual de Ensino Profissional Maria Carmem Vieira Moreira](https://www.instagram.com/epmariacarmemoficial?igsh=a29wZzQwaWl3cGc0) Em Brasil Pajuçara/CE. Atualmente estou cursando na Área [Técnica em Desenvolvimento de Sistemas](https://www.instagram.com/dsmcvm?igsh=MTRnNDBtMnI2anR4OQ==), um curso que  propria escola oferece: Desde a simples lógica de progamação, até o nivel de um progamdor profissional. Não só na progamação, pois o curso trabalha em diversas áreas támbem para o aluno poder escolher sua carreira profissional.</p>
